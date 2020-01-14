@@ -7,11 +7,12 @@
     position: center;
 }
 
-/* .container img {
+.container img {
     height: 200px;
     width: 200px;
     position: center;
-} */
+    padding: 20px;
+}
 
 img {
     height: 300px;
