@@ -1,0 +1,21 @@
+.container {
+    float: left;
+}
+
+.col-sm {
+    text-align: center;
+    position: center;
+}
+
+/* .container img {
+    height: 200px;
+    width: 200px;
+    position: center;
+} */
+
+img {
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+}
