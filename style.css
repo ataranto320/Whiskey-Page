@@ -1,3 +1,7 @@
+.navbar {
+    background-color: black;
+}
+
 #logo {
     color: tan;
 }
@@ -33,4 +37,12 @@ img {
     width: 300px;
     padding: 10px;
     text-align: center;
+}
+
+li a {
+
+}
+
+li a:hover {
+
 }
