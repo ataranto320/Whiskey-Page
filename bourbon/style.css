@@ -4,19 +4,33 @@ body {
     background-size: cover;
 }
 
-img {
+/* for map
+/* img {
     height: 500px;
     width: 700px;
     float: left;
     padding-right: 10px;
+} */
+
+img {
+    height: 200px;
+    width: 200px;
 }
 
-.column {
+/* .row {
     float: right;
-    width: 50%;
+} */
+
+/* .column {
+    float: right; */
+    /* width: 40px;
     object-fit: contain;
-}
+} */
 
 a {
     color: orange;
+}
+
+.form {
+    float: right;
 }
