@@ -1,0 +1,19 @@
+body {
+    background-image: url(old-whiskey.jpg);
+    background-size: cover;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    /* float: right; */
+}
+
+p {
+    color: whitesmoke;
+    padding-top: 10px;;
+}
+
+form {
+    padding: 10px;
+}
